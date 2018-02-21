@@ -1,9 +1,9 @@
 {
-  "name": "ghibli-kata",
+  "name": "atm-kata",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:codingstones/ghibli-kata.git",
-  "author": "Javi Rubio <javi@codingstones.com>",
+  "repository": "git@github.com:codingstones/atm-kata.git",
+  "author": "Coding Stones <yeah@codingstones.com>",
   "license": "MIT",
   "scripts": {
     "unit": "mocha --compilers js:babel-core/register -r babel-polyfill ./setupTests.js './**/*.spec.js*'"
